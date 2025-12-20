@@ -1,75 +1,88 @@
-<!-- Profile Banner -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Ustat%20Singh&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=200&section=header&text=Ustat%20Singh&fontSize=42&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">🤖 Mechatronics & Automation | Robotics Enthusiast</h2>
+<p align="center">
+  <b>🤖 Robotics | ROS 2 | Mechatronics & Automation</b>
+</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280"/>
 </p>
 
 ---
 
-## 👋 About Me
-🎓 B.Tech 2nd Year  
-🤖 Learning **ROS 2 (Humble)** & robot simulation  
-💻 Interested in **robotics software & automation**
+## 👋 Who am I?
+
+🎓 B.Tech 2nd Year student in **Mechatronics & Automation**  
+🤖 Passionate about **robotics software & autonomous systems**  
+🧠 Currently focused on **ROS 2, simulation, and robot control**  
+🛠️ Turning **code into moving machines**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Robotics & Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-Simulation-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/URDF-Robot_Modeling-795548?style=for-the-badge"/>
   <br/>
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-Programming-004482?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Python-Programming-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Ubuntu-Linux-E95420?style=for-the-badge&logo=ubuntu"/>
+  <img src="https://img.shields.io/badge/Arduino-Hardware-00979D?style=for-the-badge&logo=arduino"/>
 </p>
 
 ---
 
-## 🚀 Projects
-🐢 **Turtle Follower (ROS 2)**  
-🧹 **Floor Cleaning Robot** *(ongoing)*
+## 🤖 Robotics Projects
+
+### 🐢 Turtle Follower (ROS 2)
+> Learning robot motion & coordination using ROS 2 and simulation tools.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
+</p>
+
+### 🧹 Floor Cleaning Robot
+> Automation-based robotics project for college fest **Enyugma**  
+> Focused on real-world robot movement & logic
 
 ---
 
-## 📫 Connect With Me
+## 🌱 What I’m Learning Right Now
+
+- 🤖 **ROS 2** — node architecture & workflows  
+- 🧪 **Gazebo** — robot simulation  
+- 🧩 **URDF** — robot modeling  
+- 🧭 **Autonomous Navigation** — core concepts  
+
+---
+
+## 📫 Let’s Connect
+
 <p align="center">
   <a href="https://github.com/USTAT19">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com/in/ustat-singh-6883b2325">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:singhustat9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
 </p>
 
-⭐ *Thanks for visiting my profile!*
-
-
-<!--
-**USTAT19/USTAT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>⭐ Exploring robotics one node at a time</i>
+</p>
