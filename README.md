@@ -42,15 +42,30 @@
 ## 🤖 Robotics Projects
 
 ### 🐢 Turtle Follower (ROS 2)
-> Learning robot motion & coordination using ROS 2 and simulation tools.
+> Developed a ROS 2-based control system where one turtle autonomously tracks and follows another using real-time pose data.  
+> Implemented publisher-subscriber communication, velocity control logic, and coordinate transformations within a simulated environment.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="220"/>
+  <img src="https://raw.githubusercontent.com/ros/ros_tutorials/rolling/turtlesim/images/turtlesim.png" width="320"/>
 </p>
 
-### 🧹 Floor Cleaning Robot
-> Automation-based robotics project for college fest **Enyugma**  
-> Focused on real-world robot movement & logic
+<p align="center">
+  <i>ROS 2 turtlesim follower implementation</i>
+</p>
+
+---
+
+### 🚀 Custom Robot Modeling & Simulation in Gazebo (ROS 2)
+> Designed and deployed a custom robot model in Gazebo using URDF and ROS 2 launch architecture.  
+> Implemented robot description publishing, simulation environment integration, and runtime spawning using ROS 2 Humble.
+
+<p align="center">
+  <img src="https://classic.gazebosim.org/tutorials?tut=build_robot&cat=build_robot_files&img=build_robot_step1.png" width="400"/>
+</p>
+
+<p align="center">
+  <i>URDF-based robot successfully spawned in Gazebo simulation</i>
+</p>
 
 ---
 
